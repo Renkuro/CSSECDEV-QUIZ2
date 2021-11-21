@@ -19,8 +19,8 @@
                 "height": 80
               },
               "position": {
-                "x": 40,
-                "y": 410
+                "x": 330,
+                "y": 400
               },
               "angle": 0,
               "id": "31409c2b-52d0-4263-8657-c70dc9e17b97",
@@ -45,8 +45,8 @@
                 "height": 100
               },
               "position": {
-                "x": 50,
-                "y": 50
+                "x": 30,
+                "y": 390
               },
               "angle": 0,
               "id": "a4da2bca-e8f2-458f-b474-df0709fc643c",
@@ -58,6 +58,32 @@
                 },
                 "text": {
                   "text": "Browser Client"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Store",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 50,
+                "y": 50
+              },
+              "angle": 0,
+              "id": "fdaa5a93-8731-4edf-95b1-59a5bd94441f",
+              "z": 3,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "SQL Database"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
