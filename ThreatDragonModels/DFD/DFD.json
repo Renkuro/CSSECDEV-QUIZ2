@@ -530,8 +530,8 @@
               "type": "tm.Boundary",
               "smooth": true,
               "source": {
-                "x": 290,
-                "y": 210
+                "x": 270,
+                "y": 200
               },
               "target": {
                 "x": 560,
@@ -566,6 +566,27 @@
               ],
               "id": "7963cdbd-2513-4b72-a8f3-661cb1352112",
               "z": 17,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 330,
+                "y": 170
+              },
+              "target": {
+                "x": 340,
+                "y": 520
+              },
+              "vertices": [
+                {
+                  "x": 280,
+                  "y": 350
+                }
+              ],
+              "id": "f24296ce-babf-4131-8215-df1b404833da",
+              "z": 18,
               "attrs": {}
             }
           ]
