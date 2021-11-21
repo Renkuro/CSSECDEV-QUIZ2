@@ -440,6 +440,91 @@
                   "class": "connection hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Flow",
+              "smooth": true,
+              "source": {
+                "x": 440,
+                "y": 400
+              },
+              "target": {
+                "x": 440,
+                "y": 180
+              },
+              "vertices": [
+                {
+                  "x": 470,
+                  "y": 290
+                }
+              ],
+              "id": "f6fb88fa-51e1-44e0-809b-af57df77399a",
+              "labels": [
+                {
+                  "position": 0.5,
+                  "attrs": {
+                    "text": {
+                      "text": "Auth Verification",
+                      "font-weight": "400",
+                      "font-size": "small"
+                    }
+                  }
+                }
+              ],
+              "z": 14,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Flow",
+              "smooth": true,
+              "source": {
+                "x": 390,
+                "y": 190
+              },
+              "target": {
+                "x": 390,
+                "y": 390
+              },
+              "vertices": [
+                {
+                  "x": 360,
+                  "y": 290
+                }
+              ],
+              "id": "e0c0e24b-efb9-467c-ab13-3ca8e5050aa7",
+              "labels": [
+                {
+                  "position": {
+                    "distance": 0.5,
+                    "offset": 0
+                  },
+                  "attrs": {
+                    "text": {
+                      "text": "Verified",
+                      "font-weight": "400",
+                      "font-size": "small"
+                    }
+                  }
+                }
+              ],
+              "z": 15,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
             }
           ]
         },
